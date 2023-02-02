@@ -1,0 +1,14 @@
+{
+    "columns": [
+        {
+            "id": "name",
+            "label": "Name",
+            "minWidth":170
+        },
+        {
+            "id": "population",
+            "label": "Population",
+            "minWidth":170
+        }
+    ]
+}

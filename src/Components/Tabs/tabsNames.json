@@ -1,0 +1,40 @@
+{
+    "tab":[
+        {
+            "id":0,
+            "name": "Data Validation"
+        },
+        {
+            "id":1,
+            "name": "Summary"
+        },
+        {
+            "id":2,
+            "name": "Scenarios"
+        },
+        {
+            "id":3,
+            "name": "Scenarios Type 1"
+        },
+        {
+            "id":4,
+            "name": "Scenarios Type 2"
+        },
+        {
+            "id":5,
+            "name": "Scenarios Type 2 - Service Distance"
+        },
+        {
+            "id":6,
+            "name": "Sites"
+        },
+        {
+            "id":7,
+            "name": "Products"
+        },
+        {
+            "id":8,
+            "name": "Demand"
+        }
+    ]
+}
