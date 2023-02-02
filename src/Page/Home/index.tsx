@@ -1,14 +1,24 @@
 import React from "react";
-import { Container, Title } from "./styles";
+import TableComponent from "../../Components/Table";
+import TabsComponent from "../../Components/Tabs";
+import { PageContainer, Title, Container, TabContainer, TableContainer } from "./styles";
 
 const HomePage:React.FC = () => {
 
     return(
-        <Container>
+        <PageContainer>
             <Title>
                 React Table
             </Title> 
-        </Container>
+            <Container>
+                <TabContainer>
+                    <TabsComponent/>
+                </TabContainer>
+                <TableContainer>
+                    <TableComponent/>
+                </TableContainer>
+            </Container>
+        </PageContainer>
     )
 }
 
